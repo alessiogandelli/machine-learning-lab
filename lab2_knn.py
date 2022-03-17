@@ -59,3 +59,4 @@ preds = [compute_knn(3,training_set, test_flower[1]) for test_flower in test_set
 # %%
 
 # %%
+ 
